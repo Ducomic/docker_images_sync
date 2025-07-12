@@ -1,1 +1,2 @@
 syncthing/syncthing
+ghcr.io/gethomepage/homepage
