@@ -1,1 +1,1 @@
-nickfedor/watchtower
+ghcr.io/engigu/baihu
